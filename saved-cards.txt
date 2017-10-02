@@ -1,0 +1,9 @@
+Front side: How many states are there in the USA?
+Back side: 50
+
+Front: There are -------- fingers on two standard hands.
+Back: There are 10 fingers on two standard hands.
+
+Front side: What is the name of the Harry Potter's Owl?
+Back side: Hedwig
+
